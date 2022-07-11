@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Entity Sports</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Season</string>
+    <string name="title_notifications">Stats</string>
+    <string name="title_menu">Menu</string>
+</resources>
